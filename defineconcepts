@@ -1,0 +1,42 @@
+# Definitions
+
+## Javascript, HTML, & CSS, oh my!
+  
+· Javascript is the collection of lirbaries that provide the blueprints of building webpages and web applications. 
+· HTML is the actual code to build out web based content.
+· CSS aka cascading style sheets are the way the content is styled. 
+
+## Core concepts
+
+    The Grammar of Javascript
+        Structure of code on the page
+        Structure of each sentence
+    Adding other elements like images, tables, lists, etc
+ 
+    JavaScript programs: Called scripts or code that composed of statement that use variables, values, operators, expressions, and keywords to perform actions.
+
+    Variables: Containers that store data values. Use a keyword like let for variables that can change and const for variables that remain constant.
+
+    Example: 
+
+    Using let (modern, value can be changed)
+    let userName = "John";
+    let userAge = 25;
+
+    Using const (value cannot be changed after assignment)
+    const pi = 3.14159;
+    const siteName = "MDN Web Docs";
+
+    Values: Stored in a variable. In the examples above, the values are "John", 25, 3.14159, and "MDN Web Docs"
+
+    Data types: Numbers (intergers and floating point numbers), Strings "Hello, world!", Booleans (true/false---typically used for conditional logic), and objects (which store collections of data) 
+
+    Functions: Reuable blocks of code that perform specific tasks. They're essential for structuring code & executing the same logic multiple times without having repeat the same code. 
+
+    Control flow: The order in which statements are executed. If then/else statements are a good example of this.
+
+    DOM (Document Object Model): Provides the ability to interact with the web page's structure. 
+
+
+  
+  
