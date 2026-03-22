@@ -43,7 +43,7 @@ Definitions are cool and all, but how are they applied in different scenarios?
 
 # Scenarios
 
-##Const and Let Variables
+## Const and Let Variables
 
 ![Screenshot of the code for search box and value input to search] '/Users/emilykund/Downloads/Search and Value code.png'
 The let variable is what you put in the search box
