@@ -42,7 +42,7 @@ If then/else statements are a good example of this.
 
 
 
-***Definitions are cool and all, but how are they applied in different scenarios?***
+* *Definitions are cool and all, but how are they applied in different scenarios?* *
 
 # Scenarios
 
