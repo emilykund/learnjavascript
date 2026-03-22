@@ -47,10 +47,10 @@ _Definitions are cool and all, but how are they applied in different scenarios?_
 # Scenarios
 
 ## Const and Let Variables
+<img width="777" height="345" alt="Search and Value code" src="https://github.com/user-attachments/assets/13509f95-f341-46e7-9014-2511be6cc1cf" />
 
-![Screenshot of the code for search box and value input to search] (https://github.com/emilykund/learnjavascript/blob/main/images/Search%20and%20Value%20code.png)
-
-The let variable is what you put in the search box
+The ```const``` variable is the search box <br>
+The ```let``` variable is what you put in the search box
 
 
 
