@@ -48,7 +48,8 @@ _Definitions are cool and all, but how are they applied in different scenarios?_
 
 ## Const and Let Variables
 
-![Screenshot of the code for search box and value input to search] '/Users/emilykund/Downloads/Search and Value code.png'
+![Screenshot of the code for search box and value input to search] (https://github.com/emilykund/learnjavascript/blob/main/images/Search%20and%20Value%20code.png)
+
 The let variable is what you put in the search box
 
 
