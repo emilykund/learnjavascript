@@ -39,7 +39,10 @@ If then/else statements are a good example of this.
 **DOM (Document Object Model): Provides the ability to interact with the web page's structure**
 
 
-<h4>Definitions are cool and all, but how are they applied in different scenarios?</h4>
+
+
+
+<h2>Definitions are cool and all, but how are they applied in different scenarios?</h2>
 
 # Scenarios
 
