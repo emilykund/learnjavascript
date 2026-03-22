@@ -1,7 +1,7 @@
 # Javascript, HTML, & CSS, oh my!
   
-· Javascript is the collection of lirbaries that provide the blueprints of building webpages and web applications. 
-· HTML is the actual code to build out web based content.
+· Javascript is the collection of lirbaries that provide the blueprints of building webpages and web applications. <br>
+· HTML is the actual code to build out web based content.<br>
 · CSS aka cascading style sheets are the way the content is styled. 
 
 # Core concepts
